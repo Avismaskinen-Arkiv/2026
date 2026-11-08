@@ -1,0 +1,130 @@
+{
+  "aargang": "2026",
+  "frosset": "2026-11-08T14:21:28.403Z",
+  "appVersion": "2026.1",
+  "aviser": [
+    {
+      "slug": "madpakke",
+      "navn": "Bacon News",
+      "farve": {
+        "bg": "#f47171",
+        "fg": "#f0abfc"
+      },
+      "motto": "Vi er de seje",
+      "kreds": "FDF Hjortshøj",
+      "synlighed": "normal",
+      "appVersion": "2026.1"
+    },
+    {
+      "slug": "leverpostej",
+      "navn": "Brædstrup pigerne",
+      "farve": {
+        "bg": "#ffffff",
+        "fg": "#000000"
+      },
+      "motto": null,
+      "kreds": "FDF Brædstrup",
+      "synlighed": "normal",
+      "appVersion": "2026.1"
+    },
+    {
+      "slug": "kringle",
+      "navn": "Hjortshøj agurkerne",
+      "farve": {
+        "bg": "#14532d",
+        "fg": "#ffffff"
+      },
+      "motto": "Håb, drømme og gaffatape",
+      "kreds": "FDF Hjortshøj",
+      "synlighed": "normal",
+      "appVersion": "2026.1"
+    },
+    {
+      "slug": "vindmoelle",
+      "navn": "Maxstan Solbjerg",
+      "farve": {
+        "bg": "#4c1d95",
+        "fg": "#f0abfc"
+      },
+      "motto": null,
+      "kreds": "FDF Solbjerg",
+      "synlighed": "normal",
+      "appVersion": "2026.1"
+    },
+    {
+      "slug": "frikadelle",
+      "navn": "Mr. Staeng",
+      "farve": {
+        "bg": "#f9f9b8",
+        "fg": "#030303"
+      },
+      "motto": "SEJHEDS OSTE",
+      "kreds": "FDF Ellevang-Risskov",
+      "synlighed": "normal",
+      "appVersion": "2026.1"
+    },
+    {
+      "slug": "blomme",
+      "navn": "nyheder hk",
+      "farve": {
+        "bg": "#ee2bee",
+        "fg": "#ffffff"
+      },
+      "motto": null,
+      "kreds": "FDF Brædstrup",
+      "synlighed": "normal",
+      "appVersion": "2026.1"
+    },
+    {
+      "slug": "rutsjebane",
+      "navn": "The Gangster Girls",
+      "farve": {
+        "bg": "#db2777",
+        "fg": "#ffffff"
+      },
+      "motto": null,
+      "kreds": "FDF Hjortshøj",
+      "synlighed": "normal",
+      "appVersion": "2026.1"
+    },
+    {
+      "slug": "lakridspibe",
+      "navn": "verdens blikket 😋",
+      "farve": {
+        "bg": "#71b3f4",
+        "fg": "#8cee2b"
+      },
+      "motto": null,
+      "kreds": "FDF Hjortshøj",
+      "synlighed": "normal",
+      "appVersion": "2026.1"
+    },
+    {
+      "slug": "nissehue",
+      "navn": "Yappere",
+      "farve": {
+        "bg": "#f9b8d9",
+        "fg": "#000000"
+      },
+      "motto": "\"Vi yapper når du har brug for det..også når du ikke har\"",
+      "kreds": "FDF Beder-Malling",
+      "synlighed": "normal",
+      "appVersion": "2026.1"
+    },
+    {
+      "slug": "forside",
+      "navn": "NyhedsNats Episke Demoavis",
+      "farve": {
+        "bg": "#db2777",
+        "fg": "#ffffff"
+      },
+      "motto": "Nattens nyheder, direkte på din telefon",
+      "kreds": null,
+      "synlighed": "oevrige",
+      "appVersion": "2026.1"
+    }
+  ],
+  "repoer": [
+    "2026"
+  ]
+}
